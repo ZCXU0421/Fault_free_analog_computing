@@ -27,4 +27,6 @@ Analog computing in hardware implementation often faces various fault issues, wi
 2. Design matrices based on fault patterns and target matrix.
 3. Use optimization methods to train models adapted to specific fault patterns
 4. Implement multi-layer compensation to improve accuracy and fault tolerance
+## License
 
+This project is licensed under the AGPLv3 License with the Commons Clause. This means you are free to use, modify, and share this code, but you are **not permitted** to sell this software or derivative works commercially. See the LICENSE file for details.
