@@ -1,5 +1,10 @@
 import torch
 import numpy as np
+# Copyright (c) 2025 
+# This file is part of Fault Free Analog Computing.
+# Licensed under the GNU General Public License v3.0.
+# See the LICENSE file for details.
+
 MAX_VALUE = 150e-6
 # notice that the chip's column is the matrix's row
 # the chip's row is the matrix's column
