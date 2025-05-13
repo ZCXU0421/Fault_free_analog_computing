@@ -17,6 +17,7 @@ The project includes the following main files:
 - `SimChip.py`: Simulated chip implementation for modeling computing devices with faults
 - `SingleLayer.ipynb`: Example and tests for single-layer model
 - `MultilayerCompensate.ipynb`: Example and tests for multi-layer compensation with our method
+- `simdata`: Includes our simulation results on the quality of matrix representation with different stuck-at OFF/ON rates and varying k values.
 
 ## Principle Introduction
 
