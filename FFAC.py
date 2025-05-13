@@ -5,10 +5,11 @@ import torch.nn as nn
 import torch.nn.functional as F
 from copy import deepcopy
 import matplotlib.pyplot as plt
-# Copyright (c) 2025 
+# Copyright (c) 2025 Zhicheng Xu
 # This file is part of Fault Free Analog Computing.
-# Licensed under the GNU General Public License v3.0.
-# See the LICENSE file for details.
+# The file is licensed under the AGPLv3 License with Commons Clause
+# Free to use, modify and share, but commercial sale is not permitted
+# See the LICENSE file in the project root for full license information
 
 # Author: Zhicheng Xu, Contact: xuzc2001@connect.hku.hk
 # Date: 2025-05-13
