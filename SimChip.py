@@ -1,9 +1,10 @@
 import torch
 import numpy as np
-# Copyright (c) 2025 
+# Copyright (c) 2025 Zhicheng Xu
 # This file is part of Fault Free Analog Computing.
-# Licensed under the GNU General Public License v3.0.
-# See the LICENSE file for details.
+# The file is licensed under the AGPLv3 License with Commons Clause
+# Free to use, modify and share, but commercial sale is not permitted
+# See the LICENSE file in the project root for full license information
 
 MAX_VALUE = 150e-6
 # notice that the chip's column is the matrix's row
