@@ -5,12 +5,17 @@ import torch.nn as nn
 import torch.nn.functional as F
 from copy import deepcopy
 import matplotlib.pyplot as plt
+# Copyright (c) 2025 
+# This file is part of Fault Free Analog Computing.
+# Licensed under the GNU General Public License v3.0.
+# See the LICENSE file for details.
 
 # Author: Zhicheng Xu, Contact: xuzc2001@connect.hku.hk
 # Date: 2025-05-13
 # Version: 1.0
 # Description: This is the main file for Fault Free Analog Computing 
 # Constant definition
+
 SUPERTMAX = 150e-6
 
 class NNWeight(nn.Module):
