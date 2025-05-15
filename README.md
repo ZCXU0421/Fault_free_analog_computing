@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This project implements a fault-tolerant analog computing method that effectively addresses device failure issues in analog computing. Through specialized mapping algorithms and compensation layer designs, this method achieves accurate matrix computations even in the presence of Stuck-At-Fault (SAF) failures.
+This project implements a fault-tolerant analog computing method that effectively addresses device failure issues in analog computing. Through specialized mapping algorithms and compensation layer designs, this method achieves accurate analog matrix computations even with imperfect hardware.
 
 ## Author Information
 
